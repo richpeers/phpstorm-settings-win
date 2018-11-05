@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2cfb7f8e-39a6-4bb9-9801-1f4d2f8d4029" name="parentapps" url="http://parentapps.code">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
